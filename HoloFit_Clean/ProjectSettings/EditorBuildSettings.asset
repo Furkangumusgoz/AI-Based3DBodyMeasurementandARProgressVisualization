@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MeasurementScene.unity
+    guid: 775f660cd01f5b64c98f9b7e1ef4a3f6
+  - enabled: 0
+    path: Assets/Scenes/ComparisonScene.unity
+    guid: f2eb33cdd2236c3419e9f06db0e983e9
+  - enabled: 1
+    path: Assets/Scenes/ComparisonScene_3DAnalysis.unity
+    guid: 0b8539dd7ce371041958180dfad2463b
+  m_configObjects: {}
